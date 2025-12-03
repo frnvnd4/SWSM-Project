@@ -42,8 +42,8 @@ El dispositivo integra microcontroladores y sensores calibrados para la detecci√
 
 ---
 *Proyecto desarrollado para la asignatura de TICs I por:
-    * Fernanda Lorca
-    * Catalina Lorca
-    * Rafael Campos
+ * Fernanda Lorca
+ * Catalina Lorca
+ * Rafael Campos
        
 Enfocado en seguridad industrial y normativa laboral chilena.*
